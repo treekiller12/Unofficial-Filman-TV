@@ -25,34 +25,6 @@ Orginalny twórca kodu: [majusss](https://github.com/majusss)
 - **Oglądanie**: Streamuj filmy i seriale bezpośrednio w aplikacji.
 - **Zapisywanie Postępu**: Kontynuuj oglądanie od miejsca, w którym skończyłeś, dzięki zapisywaniu postępu.
 
-## Jak Zbudować
-
-1. **Sklonuj Repozytorium**:
-
-   ```bash
-   git clone https://github.com/majusss/unofficial-filman-flutter.git unofficial_filman_client
-   ```
-
-2. **Przejdź do Katalogu Projektu**:
-
-   ```bash
-   cd unofficial_filman_client
-   ```
-
-3. **Zainstaluj Zależności**:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. **Uruchom Aplikację**:
-
-   ```bash
-   flutter run
-   ```
-
-To uruchomi aplikację na podłączonym urządzeniu lub emulatorze.
-
 ## Ostrzeżenie
 
 Jest to nieoficjalna aplikacja, nie rozwijana ani w żaden sposób związana z administratorami filman.cc. Administratorem systemu FILMAN jest Organic Codesand.
