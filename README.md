@@ -1,6 +1,7 @@
 # Nieoficjalna aplikacja Filman TV
 
 Oto nieoficjalny klient strony internetowej filman.cc! Ta aplikacja, stworzona przy użyciu Fluttera, pozwala przeglądać, wyszukiwać i oglądać filmy oraz seriale dostępne na filman.cc.
+
 Orginalny twórca kodu: [majusss](https://github.com/majusss)
 
 ## Użyte Technologie
