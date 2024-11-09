@@ -8,7 +8,8 @@ Orginalny twórca kodu: [majusss](https://github.com/majusss)
 
 1. **Pobierz APK**: [Aplikacja TV](https://github.com/treekiller12/Unofficial-Filman-TV/releases).
 2. **Zainstaluj APK**: Otwórz pobrany plik APK i postępuj zgodnie z instrukcjami na ekranie, aby zainstalować aplikację.
-3. **WAŻNE**: Otwórz aplikację na telefon [Aplikacja Telefonowa](https://github.com/majusss/unofficial-filman-flutter/releases) zaloguj się bądź zarejestruj się. wtedy wejdź w ustawienia i kliknij **Zaloguj na Android TV**.
+3. WAŻNE:
+Aby rozpocząć, pobierz aplikację na telefon [Aplikacja Telefonowa](https://github.com/majusss/unofficial-filman-flutter/releases), a następnie zaloguj się lub zarejestruj. Po zalogowaniu, przejdź do ustawień i kliknij Zaloguj na Android TV.
 
 ## Użyte Technologie
 
