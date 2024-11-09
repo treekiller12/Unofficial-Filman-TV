@@ -14,7 +14,7 @@ import "package:permission_handler/permission_handler.dart";
 Future<void> checkForUpdates(final BuildContext context) async {
   final PackageInfo packageInfo = await PackageInfo.fromPlatform();
   final response = await Dio().get(
-    "https://api.github.com/repos/treekiller12/Sigma/releases/latest", // Updated URL to the new repo
+    "https://api.github.com/repos/treekiller12/Unofficial-Filman-TV/releases/latest", // Updated URL to the new repo
   );
 
   final Version currentVersion = Version.parse(packageInfo.version);
@@ -58,7 +58,7 @@ Future<void> checkForUpdates(final BuildContext context) async {
                   : TextButton(
                       onPressed: () async {
                         final url = Uri.parse(
-                          "https://github.com/treekiller12/Sigma/releases/latest", // Updated link for web
+                          "https://github.com/treekiller12/Unofficial-Filman-TV/releases/latest", // Updated link for web
                         );
                         if (!await launchUrl(
                           url,
@@ -104,7 +104,7 @@ Future<void> downloadAndInstallApk(
     final assets = response.data["assets"];
     if (assets is List) {
       final apkAsset = assets.firstWhereOrNull(
-        (final asset) => asset["name"] == "sigma.apk", // Update file name if needed
+        (final asset) => asset["name"] == "unofficial-filman-tv.apk", // Update file name if needed
       );
 
       if (apkAsset != null && apkAsset["browser_download_url"] is String) {
