@@ -25,19 +25,6 @@ Orginalny twórca kodu: [majusss](https://github.com/majusss)
 - **Oglądanie**: Streamuj filmy i seriale bezpośrednio w aplikacji.
 - **Zapisywanie Postępu**: Kontynuuj oglądanie od miejsca, w którym skończyłeś, dzięki zapisywaniu postępu.
 
-## Jak Zainstalować
-
-### Na Androidzie (APK)
-
-1. **Pobierz APK**: [Nieoficjalny Klient Filman APK](https://github.com/majusss/unofficial-filman-flutter/releases).
-2. **Zainstaluj APK**: Otwórz pobrany plik APK i postępuj zgodnie z instrukcjami na ekranie, aby zainstalować aplikację.
-
-### Na iOS (IPA z UseScarlet.com)
-
-1. **Pobierz Scarlet**: Wejdź na [UseScarlet](https://usescarlet.com) i postępuj zgodnie z instrukcjami, aby zainstalować aplikację Scarlet.
-2. **Pobierz IPA**: [Nieoficjalny Klient Filman IPA](https://github.com/majusss/unofficial-filman-flutter/releases).
-3. **Zainstaluj IPA**: W aplikacji Scarlet zainstaluj Nieoficjalnego Klienta Filman z pobranego pliku IPA.
-
 ## Jak Zbudować
 
 1. **Sklonuj Repozytorium**:
