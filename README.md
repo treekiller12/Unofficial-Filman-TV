@@ -4,6 +4,12 @@ Oto nieoficjalny klient strony internetowej filman.cc! Ta aplikacja, stworzona p
 
 Orginalny twórca kodu: [majusss](https://github.com/majusss)
 
+## Jak Zainstalować
+
+1. **Pobierz APK**: [Aplikacja TV](https://github.com/treekiller12/Unofficial-Filman-TV/releases).
+2. **Zainstaluj APK**: Otwórz pobrany plik APK i postępuj zgodnie z instrukcjami na ekranie, aby zainstalować aplikację.
+3. **WAŻNE**: Otwórz aplikację na telefon [Aplikacja Telefonowa](https://github.com/majusss/unofficial-filman-flutter/releases) zaloguj się bądź zarejestruj się. wtedy wejdź w ustawienia i kliknij **Zaloguj na Android TV**.
+
 ## Użyte Technologie
 
 - **Flutter**: Framework wieloplatformowy do tworzenia aplikacji mobilnych.
