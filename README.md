@@ -4,8 +4,6 @@ Oto nieoficjalny klient strony internetowej filman.cc! Ta aplikacja, stworzona p
 
 Orginalny twórca kodu: [majusss](https://github.com/majusss)
 
-Aplikacja działa tylko na Android TV.
-
 ## Jak Zainstalować
 
 1. **Pobierz APK**: [Aplikacja TV](https://github.com/treekiller12/Unofficial-Filman-TV/releases).
