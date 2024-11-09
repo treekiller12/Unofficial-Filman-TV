@@ -1,4 +1,4 @@
-# Unofficial Filman Client
+# Unofficial Filman TV Client
 
 [PL](https://github.com/majusss/unofficial-filman-flutter/blob/main/README_PL.md)
 
