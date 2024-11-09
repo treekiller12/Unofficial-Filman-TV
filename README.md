@@ -1,75 +1,73 @@
-# Unofficial Filman TV Client
+# Nieoficjalna aplikacja Filman TV
 
-[PL](https://github.com/majusss/unofficial-filman-flutter/blob/main/README_PL.md)
-
-Here is the unofficial client for the filman.cc website! This app, built using Flutter, lets you browse, search, and watch movies and TV shows available on filman.cc.
+Oto nieoficjalny klient strony internetowej filman.cc! Ta aplikacja, stworzona przy użyciu Fluttera, pozwala przeglądać, wyszukiwać i oglądać filmy oraz seriale dostępne na filman.cc.
 
 <details>
- <summary>Screenshots</summary>
+ <summary>Zrzuty ekranu</summary>
   
-  ![Home Page](https://i.imgur.com/hD4gAN0.png "Home Page")
-  ![Search](https://i.imgur.com/9QKYVPM.png "Search")
-  ![Watch History](https://i.imgur.com/uvjI0ox.png "Watch History")
-  ![Movie Details](https://i.imgur.com/NlVu21l.png "Movie Details")
-  ![Episode List](https://i.imgur.com/n7leAiG.png "Episode List")
-  ![Player](https://i.imgur.com/5EwrYAs.png "Player")
+  ![Strona Główna](https://i.imgur.com/hD4gAN0.png "Strona Główna")
+  ![Wyszukiwarka](https://i.imgur.com/9QKYVPM.png "Wyszukiwarka")
+  ![Historia Oglądanych](https://i.imgur.com/uvjI0ox.png "Historia Oglądanych")
+  ![Szczegóły Filmu](https://i.imgur.com/NlVu21l.png "Szczegóły Filmu")
+  ![Lista Odcinków](https://i.imgur.com/n7leAiG.png "Lista Odcinków")
+  ![Odtwarzacz](https://i.imgur.com/5EwrYAs.png "Odtwarzacz")
 </details>
 
-## Tech Stack
+## Użyte Technologie
 
-- **Flutter**: A cross-platform framework for building mobile applications.
-- **Flutter Material Components**: Pre-designed UI components for Flutter apps.
-- **Dio**: An HTTP client for Dart, used to make requests to filman.cc.
-- **HTML Parser**: A library for parsing HTML content, used to extract data from filman.cc's web pages.
+- **Flutter**: Framework wieloplatformowy do tworzenia aplikacji mobilnych.
+- **Flutter Material Components**: Gotowe komponenty interfejsu użytkownika dla aplikacji Flutter.
+- **Dio**: Klient HTTP dla Dart, używany do wykonywania zapytań do filman.cc.
+- **HTML Parser**: Biblioteka do parsowania zawartości HTML, używana do wyodrębniania danych ze stron internetowych filman.cc.
 
-## Features
+## Funkcje
 
-- **Browse Movies and TV Shows**: Discover the wide range of content available on filman.cc.
-- **Search**: Quickly and easily find specific movies or TV shows.
-- **Watch**: Stream movies and TV shows directly within the app.
-- **Save Progress**: Continue watching from where you left off by saving your progress.
+- **Przeglądanie Filmów i Seriali**: Odkrywaj szeroką gamę treści dostępnych na filman.cc.
+- **Wyszukiwanie**: Szybko i łatwo znajdź konkretne filmy lub seriale.
+- **Oglądanie**: Streamuj filmy i seriale bezpośrednio w aplikacji.
+- **Zapisywanie Postępu**: Kontynuuj oglądanie od miejsca, w którym skończyłeś, dzięki zapisywaniu postępu.
 
-## How to Install
+## Jak Zainstalować
 
-### On Android (APK)
+### Na Androidzie (APK)
 
-1. **Download the APK**: [Unofficial Filman Client APK](https://github.com/majusss/unofficial-filman-flutter/releases).
-2. **Install the APK**: Open the downloaded APK file and follow the on-screen instructions to install the app.
+1. **Pobierz APK**: [Nieoficjalny Klient Filman APK](https://github.com/majusss/unofficial-filman-flutter/releases).
+2. **Zainstaluj APK**: Otwórz pobrany plik APK i postępuj zgodnie z instrukcjami na ekranie, aby zainstalować aplikację.
 
-### On iOS (IPA with UseScarlet.com)
+### Na iOS (IPA z UseScarlet.com)
 
-1. **Download Scarlet**: Go to [UseScarlet](https://usescarlet.com) and follow the instructions to install the Scarlet app.
-2. **Download the IPA**: [Unofficial Filman Client IPA](https://github.com/majusss/unofficial-filman-flutter/releases).
-3. **Install the IPA**: In the Scarlet app, install the Unofficial Filman Client from the downloaded IPA file.
+1. **Pobierz Scarlet**: Wejdź na [UseScarlet](https://usescarlet.com) i postępuj zgodnie z instrukcjami, aby zainstalować aplikację Scarlet.
+2. **Pobierz IPA**: [Nieoficjalny Klient Filman IPA](https://github.com/majusss/unofficial-filman-flutter/releases).
+3. **Zainstaluj IPA**: W aplikacji Scarlet zainstaluj Nieoficjalnego Klienta Filman z pobranego pliku IPA.
 
-## How to Build
+## Jak Zbudować
 
-1. **Clone the Repository**:
+1. **Sklonuj Repozytorium**:
 
    ```bash
    git clone https://github.com/majusss/unofficial-filman-flutter.git unofficial_filman_client
    ```
 
-2. **Navigate to the Project Directory**:
+2. **Przejdź do Katalogu Projektu**:
 
    ```bash
    cd unofficial_filman_client
    ```
 
-3. **Install Dependencies**:
+3. **Zainstaluj Zależności**:
 
    ```bash
    flutter pub get
    ```
 
-4. **Run the App**:
+4. **Uruchom Aplikację**:
 
    ```bash
    flutter run
    ```
 
-This will launch the app on your connected device or emulator.
+To uruchomi aplikację na podłączonym urządzeniu lub emulatorze.
 
-## Disclaimer
+## Ostrzeżenie
 
-This is an unofficial application, not developed or maintained by, nor affiliated with, the administrators of filman.cc. The administrator of the FILMAN system is Organic Codesand.
+Jest to nieoficjalna aplikacja, nie rozwijana ani w żaden sposób związana z administratorami filman.cc. Administratorem systemu FILMAN jest Organic Codesand.
